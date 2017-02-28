@@ -4,10 +4,6 @@
 
 	<view name="system">
 
-		<image name="background" extra="true">
-			<color>d12421</color>
-		</image>
-
 		<image name="logo">
 			<path>./system.svg</path>
 		</image>
